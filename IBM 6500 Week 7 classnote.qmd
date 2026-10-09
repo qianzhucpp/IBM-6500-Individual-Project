@@ -21,11 +21,17 @@ Spring semester: Week 6 first presentation (Ch4,initial data analysis), Week 9(d
 ## Week 7 Topics and Assignment
 
 1.  Github publication
-2.  Core concepts and process
-3.  
 
-You can add options to executable code like this
+    Can use positron or RStudio. Make sure to add html to the document to publish on github. Step by step.
 
-## Running Code
+2.  Survey
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+    How to convey client to do survey. If survey is required to do. Depend on your project if that will benefit client or do client want to do survey. Client data validation, secondary data. Primary data collection. Look into if the data are validate. Survey would be important because we have control over the quality and clearity of the data.
+
+## Presentation Feedback
+
+1.  This group uses C&M table is the blueprint for the survey. Company research, fresh company with a lot of new. users. to know how useful sales force is based on sales force records. Type of scale they used are strongly agree to strongly disagree. Defined by role, region, device, pilot group, user segment for nominal. Frequency, experience range, age group for the ordinal. To survey wheather salesforce improves job performance.
+
+## Appendex
+
+<https://github.com/qianzhucpp/IBM-6500-Individual-Project>
