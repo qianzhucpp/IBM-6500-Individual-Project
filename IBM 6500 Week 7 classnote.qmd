@@ -1,0 +1,31 @@
+---
+title: "IBM 6500 Week 7 notes"
+author: "Sandy Zhu"
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+---
+
+## Class announcement
+
+Fall semester: Week 9 will be the first presentation ch2, ch3. Week15 will be the 2nd presentation Ch2,3. Week 13 finish data collection. Finish IRB first application.
+
+In the same time, Fall semester IBM 6500 also have the personal assignments sush as SEM, Big Quiary
+
+Spring semester: Week 6 first presentation (Ch4,initial data analysis), Week 9(data analysis with recommendation), week 15(create digital plan mock up content: email, graphic, video) IBM 6800, IBM6400
+
+## Week 7 Topics and Assignment
+
+1.  Github publication
+2.  Core concepts and process
+3.  
+
+You can add options to executable code like this
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
