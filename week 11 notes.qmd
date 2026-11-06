@@ -1,0 +1,45 @@
+---
+title: "IBM 6500 Week 11 notes"
+author: "Sandy Zhu"
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+---
+
+## Class Notes 
+
+The professor mainly talked about how to organize our data analysis and choose the right statistical tests.
+
+-   We need to clearly identify the independent and dependent variables for each research question or hypothesis.
+
+-   We also need to explain how each construct is measured and identify its scale: nominal, ordinal, interval, or ratio.
+
+-   If open-ended answers are coded into categories such as favorable, neutral, and unfavorable, they are categorical variables. They can be considered ordinal if the categories have a clear order.
+
+-   The statistical test should match the type of variables. For example:
+
+    -   Categorical variables: crosstabulation and chi-square test.
+
+    -   Two independent groups: independent-samples t test.
+
+    -   More than two groups: ANOVA.
+
+    -   Two measurements from the same respondents: paired-samples t test.
+
+    -   One sample compared with a standard value: one-sample t test.
+
+    -   Multiple questions measuring the same construct: reliability analysis and factor analysis.
+
+-   The professor explained that factor analysis looks at relationships among variables, while cluster analysis groups people or objects based on their similarities.
+
+-   The Data Analysis Table should include the research question or hypothesis, variables and their roles, operationalization, measurement scale, and statistical test.
+
+-   If the assumptions for a parametric test are not met, we should consider using a nonparametric test.
+
+-   For the written report, we should follow the assignment outline and use tables and figures to explain our findings. Tables and figures should be numbered and mentioned in the text.
+
+-   For the presentation, we do not need to explain every technical detail of the statistical tests. We should focus on the main results and explain them clearly.

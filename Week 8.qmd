@@ -17,3 +17,7 @@ There are different way of publish document on github. The most recommended meth
 In today's class, we discussed how to design a questionnaire based on a conceptual framework. Dr. Jung explained how research variables and hypotheses help us develop survey questions. Each question should have a clear purpose and measure a specific variable. We also learned how to use Likert scales to collect data and test relationships between variables. The main takeaway is that questionnaire design should align with our research objectives and support data analysis.
 
 For next week's group Presentation. We need make sure that we are ready and submit the presentation ppt in time. For the time slot, we are assigned to different time slot. If we are wish to present in different time we need to communicate with the other team.
+
+[Week 8 Class Notes](https://qianzhucpp.github.io/IBM-6500-Individual-Project/Week%208.html)
+
+git\@github.com:qianzhucpp/IBM-6500-Individual-Project.git

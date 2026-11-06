@@ -1,0 +1,27 @@
+---
+title: "IBM 6500 Week 10 notes"
+author: "Sandy Zhu"
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+---
+
+## Guest Speaker notes: 
+
+Travis Miller
+
+He introduced Market Research's connection with consumer Insights. The career insights and how newer technology such as AI has been influence this path. How student can get into this field.
+
+The Insight Association is good organization to guild a network with peers and get into activities and internship and works. Help student attend meeting and know professionals. He advise us to learn statistics, economics, business, data analytics, consumer behavior etc. The new technology big improvement on survey and programming, automatic report, synthetic data, which used to take month and weeks now just days and hours.
+
+He advised us to search and find a actual internship on site instead of on zoom or remote. A lot of skills are learned in person. How to communicate and write professional emails.
+
+## Class CEP project notes:
+
+Dr. Jung moved some CEP project into another category of additional project. Instead how they structured before.
+
+After we collect data from the client we can move to next step of data collecting.
