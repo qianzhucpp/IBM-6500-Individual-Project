@@ -1,0 +1,123 @@
+---
+title: "IBM 6500 Week 12 notes"
+author: "Sandy Zhu"
+format:
+  html:
+    toc: true
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+---
+
+## 1. Construct Analysis
+
+-   We need to analyze constructs such as attitude, service awareness, and operational effectiveness.
+
+-   Use PCA or EFA to see whether the questions measure the same concept.
+
+-   Check reliability. Cronbach’s alpha should usually be above .70.
+
+-   If the questions are reliable and unidimensional, combine them into one composite index by taking the average.
+
+-   We also need to understand CFA, convergent validity, discriminant validity, and common method bias.
+
+-   We need to read and summarize the assigned article about common method bias.
+
+    ## 2. Hypothesis Testing
+
+    The professor reviewed three types of t-tests:
+
+    -   **One-sample t-test:** compares one sample mean with a standard value.
+
+    -   **Independent-samples t-test:** compares the means of two different groups.
+
+    -   **Paired-samples t-test:** compares two related measurements from the same people.
+
+    If the p-value is less than .05, we reject the null hypothesis. If the p-value is greater than .05, we fail to reject the null hypothesis.
+
+    ## 3. Choosing the Right Test
+
+    -   Metric variable and one group: one-sample t-test
+
+    -   Metric variable and two groups: independent-samples t-test
+
+    -   Metric variable and more than two groups: ANOVA
+
+    -   Two categorical variables: cross-tabulation and chi-square test
+
+    -   One categorical variable compared with expected results: chi-square goodness-of-fit test
+
+    -   Several questions measuring one construct: reliability analysis and factor analysis
+
+    For an independent-samples t-test, we should also check equal variance by using Levene’s test.
+
+    ## 4. Case 31 Data
+
+    -   The Case 31 dataset has 128 participants and 54 variables.
+
+    -   We need to prepare the data and create a data dictionary.
+
+    -   Question 38 shows whether the participant lives in the headquarters area.
+
+    -   About 44.5% lived in the headquarters area and 55.5% lived somewhere else.
+
+    -   This variable can be used to compare the two groups.
+
+    ## 5. Descriptive Statistics
+
+    For metric or interval variables, we can use:
+
+    -   Mean
+
+    -   Median
+
+    -   Standard deviation
+
+    -   Minimum and maximum
+
+    -   Skewness and kurtosis
+
+    For categorical variables, we use:
+
+    -   Counts
+
+    -   Percentages
+
+    -   Frequency tables
+
+    For charts:
+
+    -   Use a bar chart for nominal or ordinal variables.
+
+    -   Use a histogram for interval or ratio variables.
+
+    -   Use box plots to compare groups.
+
+    ## 6. Reliability and Composite Index
+
+    -   For Research Question 3, four questions measure employee proficiency.
+
+    -   The four questions showed good reliability and measured one common factor.
+
+    -   Therefore, they can be combined into one composite index.
+
+    -   After creating the index, we can treat it as one metric variable and use a one-sample or two-sample t-test.
+
+    ## 7. Comparing Groups
+
+    The professor compared:
+
+    -   Members who live near the headquarters
+
+    -   Members who live somewhere else
+
+    The dependent variables included:
+
+    -   Employee proficiency
+
+    -   Service awareness
+
+    -   Operational effectiveness
+
+    If the dependent variable is metric, use an independent-samples t-test. If it is categorical or ordinal, use a chi-square test.

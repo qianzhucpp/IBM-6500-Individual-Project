@@ -10,7 +10,7 @@ execute:
   warning: false
 ---
 
-## Guest Speaker notes: 
+## Guest Speaker notes:
 
 Travis Miller
 

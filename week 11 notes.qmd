@@ -43,3 +43,5 @@ The professor mainly talked about how to organize our data analysis and choose t
 -   For the written report, we should follow the assignment outline and use tables and figures to explain our findings. Tables and figures should be numbered and mentioned in the text.
 
 -   For the presentation, we do not need to explain every technical detail of the statistical tests. We should focus on the main results and explain them clearly.
+
+[git\@github.com:qianzhucpp/IBM-6500-Individual-Project.git](https://github.com/qianzhucpp/IBM-6500-Individual-Project.git)
